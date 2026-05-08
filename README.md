@@ -1,4 +1,4 @@
-# atividade1-segundobimestre
+
 
 1- Quando o programa é executado a seguir o programa realiza o código apresentado "Olá Mundo".
 
